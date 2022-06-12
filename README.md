@@ -2,7 +2,7 @@
 This is a simple powershell script which continuously monitor the changes in your file or a directory and shows alert when it detects any changes.
 
 # Usage
-![file monitor](https://github.com/mmbverse/file-integrity-monitor/blob/main/uploads/filemonitor%20demo.gif)
+<img src="/uploads/filemonitor.gif" width="90%" alt="file monitor"/>
 
 # Installation
 Execution Policy is on Restricted by default in Powershell, to change it enter the below command in Powershell
