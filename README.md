@@ -11,8 +11,7 @@ Execution Policy is on Restricted by default in Powershell, to change it enter t
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 </code></pre>
 Clone the respository and run the script
-<pre><code>
-git clone https://github.com/mmbverse/file-integrity-monitor
+<pre><code>git clone https://github.com/mmbverse/file-integrity-monitor
 cd file-integrity-monitor
 .\file-monitor.ps1
 </code></pre>
